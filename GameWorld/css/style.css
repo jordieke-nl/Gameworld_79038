@@ -1,0 +1,428 @@
+body {
+  background-image: url("../images/besitzer-call-of-duty-black-ops-3-nuketown-map-ab-sofort-kostenlos-herunterladen-183151.jpeg");
+  background-size: cover;
+}
+
+#header {
+  background-color: #000000;
+  height: 70px;
+  font-family: HP Simplified;
+}
+#logo {
+  float: left;
+  color: #191818;
+  font-size: 37px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 13px;
+  margin-left: 70px;
+}
+
+#main-container {
+  width: 1200px;
+  height: 800px;
+  position: absolute;
+  top: 100px;
+  background-color: lavender;
+  border-radius: 1em;
+}
+
+.Form {
+  height: 15px;
+  width: 300px;
+}
+
+#main-container1 {
+  width: 1200px;
+  height: 800px;
+  position: absolute;
+  top: 100px;
+  background-color: lavender;
+  border-radius: 1em;
+  margin-left: 420px;
+}
+
+#header {
+  background-color: lavender;
+  height: 70px;
+	width: 1200px;
+	position: absolute;
+	left: 21%;
+  border-radius: 1em;
+}
+
+#logo {
+  float: left;
+  color: #f47d42;
+  font-size: 37px;
+  font-weight: bold;
+  font-family: HP Simplified;
+  text-transform: uppercase;
+  margin-top: 13px;
+  margin-left: 70px;
+
+
+}
+
+#logo a {
+  text-decoration: none;
+  display: inline-block;
+  color: #f47d42;
+}
+
+#About {
+  float: left;
+  color: #f47d42;
+  font-size: 37px;
+  font-weight: bold;
+  font-family: HP Simplified;
+  text-transform: uppercase;
+  margin-top: 13px;
+  margin-left: 70px;
+}
+
+#About a {
+  text-decoration: none;
+  display: inline-block;
+  color: #f47d42;
+}
+
+#Contact {
+  float: left;
+  color: #f47d42;
+  font-size: 37px;
+  font-weight: bold;
+  font-family: HP Simplified;
+  text-transform: uppercase;
+  margin-top: 13px;
+  margin-left: 70px;
+}
+
+#Contact a {
+  text-decoration: none;
+  display: inline-block;
+  color: #f47d42;
+
+}
+
+h1 {
+ color: #f47d42;
+ position: absolute;
+ left: 33%;
+ top: 5%;
+ font-family: HP Simplified;
+}
+
+h2 {
+ color: #f47d42;
+ position: absolute;
+ left: 38%;
+ top: 15%;
+ font-family: HP Simplified;
+}
+
+h3 {
+	position: absolute;
+	left: 33%;
+	top: 20%;
+	color: #f47d42;
+	font-size: 30px;
+}
+
+h4 {
+margin-top: 10px;
+  color: #f47d42;
+	font-size: 20px;
+}
+h5 {
+  font-size: 18px;
+  color: #f47d42;
+  margin-top: 11px;
+}
+
+h5 a {
+  text-align: center;
+  color: #f47d42;
+  font-family: HP Simplified;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.Playstation {
+  background-image: url("../images/PS44.jpg");
+	background-size: cover;
+  height:250px;
+  width: 300px;
+  text-align: center;
+  color: #f47d42;
+  font-size: 20px;
+  font-family: HP Simplified;
+  display: inline-block;
+	position: absolute;
+	bottom: 40px;
+	left: 75px;
+	border-radius: 1em;
+  text-decoration: none;
+}
+
+.Playstation a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  width: 300px;
+  padding-bottom: 120px;
+  color: #f47d42;
+  font-size: 20px;
+}
+
+.Xbox {
+  background-image: url("../images/a9d03015-2760-43df-8056-d23af1969289.gif");
+	background-size: cover;
+	height:250px;
+  width: 300px;
+  text-align: center;
+  color: #f47d42;
+  font-size: 20px;
+  font-family: HP Simplified;
+  display: inline-block;
+	position: absolute;
+	bottom: 40px;
+	right: 75px;
+	border-radius: 1em;
+}
+
+.Xbox a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  width: 300px;
+  padding-bottom: 120px;
+  color: #f47d42;
+  font-size: 20px;
+}
+
+.PC {
+	background-image: url("../images/PC_DVD_logo-620x531.jpg");
+	background-size: cover;
+	height:250px;
+	width: 300px;
+  text-align: center;
+	Color: #f47d42;
+  font-size: 20px;
+  font-family: HP Simplified;
+  display: inline-block;
+	position: absolute;
+	bottom: 40px;
+	left: 450px;
+	border-radius: 1em;
+}
+
+.PC a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  width: 300px;
+  padding-bottom: 120px;
+  color: #f47d42;
+  font-size: 20px;
+}
+
+#footer {
+  background-color: lavender;
+  height: 70px;
+  width: 1200px;
+  position: absolute;
+  top: 95%;
+  left: 21%;
+  border-radius: 1em;
+}
+
+.product-item {
+  width: 230px;
+  height: 300px;
+  background-color: red;
+  float: left;
+  margin-right: 26px;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.last-product {
+  float: right;
+  margin-right: 0px;
+}
+
+#thumbnail {
+
+}
+
+.product-item {
+  margin-top: 50px;
+  width: 250px;
+  height: 300px;
+  background-color: white;
+  float: left;
+  margin-right: 50px;
+  position: relative;
+}
+
+.product-item img {
+  width: 250px;
+  height: 237px;
+}
+
+.last-product {
+  float: right;
+  margin-right: 0px;
+}
+
+.gameName {
+  color: black;
+  position: absolute;
+  left: 4px;
+  top: 229px;
+}
+
+.order-button {
+  width: 250px;
+  height: 50px;
+  text-align: center;
+  color: #f47d42;
+  background-color: rgb(28, 83, 14);
+  position: absolute;
+  bottom: -25px;
+}
+
+.productPrice {
+  width: 70px;
+  height: 40px;
+  background-color: green;
+  color: #f47d42;
+  text-align: center;
+  position: absolute;
+  right: 0px;
+  top: 180px;
+  border: 2px solid black;
+border-radius: 12px;
+}
+
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+    background-color: #f47d42;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+    background-color: black;
+}
+
+/* Add a background color and some padding around the form */
+.container {
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.container label {
+    cursor: default;
+    font-family: HP Simplified;
+    font-size: 25px;
+    color: #f47d42;
+
+}
+
+#googleMaps {
+  width: 1140px;
+  height: 450px;
+  position: absolute;
+  right: 21%;
+  top: 40%;
+  float: right;
+  border-radius: 1em;
+  border: solid #f47d42;
+
+}
+
+#Checkout {
+  float: left;
+  color: #f47d42;
+  font-size: 37px;
+  font-weight: bold;
+  font-family: HP Simplified;
+  text-transform: uppercase;
+  margin-top: 0px;
+  margin-left: 5px;
+}
+
+#Checkout a {
+  text-decoration: none;
+  display: inline-block;
+  color: #f47d42;
+  margin: 25PX;
+  margin-top: 13px;
+  margin-left: 70px;
+}
+
+#checkout-table {
+  border-collapse: collapse;
+  margin: 55px;
+  right: 5%;
+  height: 90%;
+  width: 90%;
+  top: 5%;
+}
+
+#checkout-table td {
+  padding-top: 5%;
+  right: 20%
+  margin-top: 20%;
+  text-align: center;
+  margin-left: 20px;
+}
+
+
+#checkout-table thead {
+  background-color: blue;
+  color: white;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: lightblue;
+}
+
+#totalprice td{
+  margin-left: 20px;
+}
+
+#checkout-table img {
+  height: 120px;
+  width: 120px;
+  margin-top: -50px;
+}
+
+#footer1 {
+  background-color: lavender;
+  height: 70px;
+  width: 1200px;
+  top: 95%;
+  left: 21%;
+  border-radius: 1em;
+}
